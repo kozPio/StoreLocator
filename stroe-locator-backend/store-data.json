@@ -1,0 +1,5533 @@
+ [{
+     "recommendation": {},
+     "storeNumber": "48346-258085",
+     "id": "1021959",
+     "name": "10th & L",
+     "phoneNumber": "9169300140",
+     "coordinates": {
+         "latitude": 38.578191,
+         "longitude": -121.494148
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1003 L Street",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958143805"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 4:30 PM",
+     "addressLines": ["1003 L Street", "Sacramento, CA 95814"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "6:30 AM to 4:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "6:30 AM to 4:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "8:00 AM to 3:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "8:00 AM to 3:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "6:30 AM to 4:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "6:30 AM to 4:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "6:30 AM to 4:30 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "CS",
+         "name": "tbd - Coffee Scale"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "10th-l-1003-l-street-sacramento-ca-958143805-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "16204-157786",
+     "id": "66234",
+     "name": "Hyatt Regency Sacramento.",
+     "phoneNumber": "916-321-3716",
+     "coordinates": {
+         "latitude": 38.577754,
+         "longitude": -121.491416
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1123 12th St",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958143936"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Closes in 23 mins",
+     "addressLines": ["1123 12th St", "Sacramento, CA 95814"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "7:00 AM to 3:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "7:00 AM to 3:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "7:00 AM to 3:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "7:00 AM to 3:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "7:00 AM to 3:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "7:00 AM to 3:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "7:00 AM to 3:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }],
+     "slug": "hyatt-regency-sacramento-1123-12-th-st-sacramento-ca-958143936-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "10142-99627",
+     "id": "9472",
+     "name": "5th & I Sacramento",
+     "phoneNumber": "916-441-2404",
+     "coordinates": {
+         "latitude": 38.583773,
+         "longitude": -121.499494
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "431 I Street",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958142320"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 5:00 PM",
+     "addressLines": ["431 I Street", "Sacramento, CA 95814"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:30 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:30 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "7:30 AM to 4:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "Closed",
+         "open": false,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:30 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:30 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:30 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "5th-i-sacramento-431-i-street-sacramento-ca-958142320-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "54006-286262",
+     "id": "1021756",
+     "name": "12th & R",
+     "phoneNumber": "19165545424",
+     "coordinates": {
+         "latitude": 38.570555,
+         "longitude": -121.494345
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1200 R Street",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958115808"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": false,
+     "openStatusText": "Closed",
+     "addressLines": ["1200 R Street", "Sacramento, CA 95811"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "7:00 AM to 2:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "7:00 AM to 2:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "7:00 AM to 2:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "7:00 AM to 2:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "7:00 AM to 2:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "7:00 AM to 2:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "7:00 AM to 2:30 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "CS",
+         "name": "tbd - Coffee Scale"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "12-th-r-1200-r-street-sacramento-ca-958115808-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "5883-4072",
+     "id": "15460",
+     "name": "1601 P Street - Sacramento",
+     "phoneNumber": "916-447-1968",
+     "coordinates": {
+         "latitude": 38.571603,
+         "longitude": -121.48787
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1501 16th Street",
+         "streetAddressLine2": "Suite 221",
+         "streetAddressLine3": "The Fremont Bldg.",
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958146072"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 4:00 PM",
+     "addressLines": ["1501 16th Street", "Suite 221", "Sacramento, CA 95814"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "6:00 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "6:00 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "7:00 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "7:00 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "6:00 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "6:00 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "6:00 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "1601-p-street-sacramento-1501-16th-street-the-fremont-bldg-sacramento-ca-95"
+ }, {
+     "recommendation": {},
+     "storeNumber": "5282-745",
+     "id": "9130",
+     "name": "19th & J Street - Sacramento",
+     "phoneNumber": "(916) 444-1892",
+     "coordinates": {
+         "latitude": 38.577149,
+         "longitude": -121.480939
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1901 J Street",
+         "streetAddressLine2": "A",
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958113019"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 5:00 PM",
+     "addressLines": ["1901 J Street", "A", "Sacramento, CA 95811"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "6:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "6:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "7:00 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "7:00 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "6:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "6:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "6:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "19th-j-street-sacramento-1901-j-street-sacramento-ca-958113019-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "74475-83323",
+     "id": "13798",
+     "name": "Safeway-Sacramento & 19th #2684",
+     "phoneNumber": "916-492-9967",
+     "coordinates": {
+         "latitude": 38.567884,
+         "longitude": -121.485862
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1800-19th Street",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958116713"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Open until 7:00 PM",
+     "addressLines": ["1800-19th Street", "Sacramento, CA 95811"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "BA",
+         "name": "Bakery"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }],
+     "slug": "safeway-sacramento-19th-2684-1800-19th-street-sacramento-ca-958116713-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "76657-99558",
+     "id": "20222",
+     "name": "Target Sacramento T-310",
+     "phoneNumber": "916-444-0993",
+     "coordinates": {
+         "latitude": 38.562763,
+         "longitude": -121.49852
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "2505 Riverside Blvd",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958182234"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Open until 9:00 PM",
+     "addressLines": ["2505 Riverside Blvd", "Sacramento, CA 95818"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }],
+     "slug": "target-sacramento-t-310-2505-riverside-blvd-sacramento-ca-958182234-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "5963-49719",
+     "id": "16372",
+     "name": "15th & Broadway - Sacramento",
+     "phoneNumber": "916-447-5105",
+     "coordinates": {
+         "latitude": 38.562213,
+         "longitude": -121.494015
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1429 Broadway",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958182260"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 6:00 PM",
+     "addressLines": ["1429 Broadway", "Sacramento, CA 95818"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "15th-broadway-sacramento-1429-broadway-sacramento-ca-958182260-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "27094-246625",
+     "id": "1013918",
+     "name": "28th & N Sacramento",
+     "phoneNumber": "916-223-8505",
+     "coordinates": {
+         "latitude": 38.569575,
+         "longitude": -121.471255
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "2701 N Street",
+         "streetAddressLine2": "A",
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958166033"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 7:30 PM",
+     "addressLines": ["2701 N Street", "A", "Sacramento, CA 95816"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "4:30 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "4:30 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "4:30 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:30 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "4:30 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "4:30 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "4:30 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "CS",
+         "name": "tbd - Coffee Scale"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "28th-n-sacramento-2701-n-street-sacramento-ca-958166033-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "74367-73714",
+     "id": "13681",
+     "name": "Safeway-Sacramento #2242",
+     "phoneNumber": "916-456-0852",
+     "coordinates": {
+         "latitude": 38.571675,
+         "longitude": -121.464765
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1025 Alhambra Blvd",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958165212"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Open until 7:00 PM",
+     "addressLines": ["1025 Alhambra Blvd", "Sacramento, CA 95816"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "BA",
+         "name": "Bakery"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }],
+     "slug": "safeway-sacramento-2242-1025-alhambra-blvd-sacramento-ca-958165212-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "619-343",
+     "id": "15263",
+     "name": "Alhambra & N",
+     "phoneNumber": "(916) 452-1707",
+     "coordinates": {
+         "latitude": 38.568147,
+         "longitude": -121.467067
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1401 Alhambra Blvd",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958166508"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 5:00 PM",
+     "addressLines": ["1401 Alhambra Blvd", "Sacramento, CA 95816"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "7:00 AM to 3:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "7:00 AM to 2:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "alhambra-n-1401-alhambra-blvd-sacramento-ca-958166508-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "5536-1284",
+     "id": "13359",
+     "name": "El Camino & Truxel - Natomas",
+     "phoneNumber": "916-927-9391",
+     "coordinates": {
+         "latitude": 38.611959,
+         "longitude": -121.496983
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1570 West El Camino Ave",
+         "streetAddressLine2": null,
+         "streetAddressLine3": "Discovery Plaza",
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958331946"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 8:00 PM",
+     "addressLines": ["1570 West El Camino Ave", "Sacramento, CA 95833"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "el-camino-truxel-natomas-1570-west-el-camino-ave-discovery-plaza-sacramento"
+ }, {
+     "recommendation": {},
+     "storeNumber": "8625-94010",
+     "id": "11788",
+     "name": "Stockton & T",
+     "phoneNumber": "916-455-7553",
+     "coordinates": {
+         "latitude": 38.559076,
+         "longitude": -121.46164
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "2001 Stockton Street",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958171334"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 7:00 PM",
+     "addressLines": ["2001 Stockton Street", "Sacramento, CA 95817"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "6:00 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "6:00 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "stockton-t-2001-stockton-street-sacramento-ca-958171334-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "6714-74981",
+     "id": "15567",
+     "name": "Gateway Oaks & El Camino",
+     "phoneNumber": "916-921-0870",
+     "coordinates": {
+         "latitude": 38.613505,
+         "longitude": -121.516628
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "2620 Gateway Oaks Drive",
+         "streetAddressLine2": null,
+         "streetAddressLine3": "Gateway Oaks Center",
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958333917"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 6:00 PM",
+     "addressLines": ["2620 Gateway Oaks Drive", "Sacramento, CA 95833"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "6:00 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "6:00 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "gateway-oaks-el-camino-2620-gateway-oaks-drive-gateway-oaks-center-sacram"
+ }, {
+     "recommendation": {},
+     "storeNumber": "9638-97818",
+     "id": "10185",
+     "name": "Expo & Exposition",
+     "phoneNumber": "916-925-5693",
+     "coordinates": {
+         "latitude": 38.598371,
+         "longitude": -121.450745
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1140 Exposition Blvd.",
+         "streetAddressLine2": "100",
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958154332"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 6:30 PM",
+     "addressLines": ["1140 Exposition Blvd.", "100", "Sacramento, CA 95815"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 6:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 6:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "6:00 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 6:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 6:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 6:30 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "expo-exposition-1140-exposition-blvd-sacramento-ca-958154332-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "58390-289255",
+     "id": "1024135",
+     "name": "Safeway - Sacramento #3013",
+     "phoneNumber": "2793999261",
+     "coordinates": {
+         "latitude": 38.540915,
+         "longitude": -121.483488
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "3680 Crocker Road",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "95818"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Open until 7:00 PM",
+     "addressLines": ["3680 Crocker Road", "Sacramento, CA 95818"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }],
+     "slug": "safeway-sacramento-3013-3680-crocker-road-sacramento-ca-95818-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "50410-257504",
+     "id": "1022223",
+     "name": "Sutterville & 21st",
+     "phoneNumber": "9167093046",
+     "coordinates": {
+         "latitude": 38.538467,
+         "longitude": -121.490265
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "2104 Sutterville Rd",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958221307"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 9:00 PM",
+     "addressLines": ["2104 Sutterville Rd", "Sacramento, CA 95822"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "6:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "6:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "6:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "6:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "6:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "6:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "6:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "SQ",
+         "name": "tbd"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "CS",
+         "name": "tbd - Coffee Scale"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "sutterville-21st-2104-sutterville-rd-sacramento-ca-958221307-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "76746-106450",
+     "id": "17371",
+     "name": "Target Sacramento West T-2268",
+     "phoneNumber": "9163840977",
+     "coordinates": {
+         "latitude": 38.551115,
+         "longitude": -121.535248
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "2005 Town Center Plus",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "West Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "956914957"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Open until 9:00 PM",
+     "addressLines": ["2005 Town Center Plus", "West Sacramento, CA 95691"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "BA",
+         "name": "Bakery"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }],
+     "slug": "target-sacramento-west-t-2268-2005-town-center-plus-west-sacramento-ca-956914957"
+ }, {
+     "recommendation": {},
+     "storeNumber": "6986-72684",
+     "id": "8901",
+     "name": "Jefferson & Lake Washington",
+     "phoneNumber": "916-371-2137",
+     "coordinates": {
+         "latitude": 38.550791,
+         "longitude": -121.538479
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "2155 Town Center Plaza",
+         "streetAddressLine2": "190",
+         "streetAddressLine3": "Soutport Town Center",
+         "city": "West Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "956914960"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 8:00 PM",
+     "addressLines": ["2155 Town Center Plaza", "190", "West Sacramento, CA 95691"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "4:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "4:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "4:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "4:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "4:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "4:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "4:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "SQ",
+         "name": "tbd"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "CS",
+         "name": "tbd - Coffee Scale"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "jefferson-lake-washington-2155-town-center-plaza-soutport-town-center-west-s"
+ }, {
+     "recommendation": {},
+     "storeNumber": "5556-1213",
+     "id": "13362",
+     "name": "Freeport & Sutterville",
+     "phoneNumber": "(916) 451-2747",
+     "coordinates": {
+         "latitude": 38.534684,
+         "longitude": -121.49445
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "4424 Freeport Blvd",
+         "streetAddressLine2": "A-1",
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958222049"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 6:30 PM",
+     "addressLines": ["4424 Freeport Blvd", "A-1", "Sacramento, CA 95822"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 6:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 6:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:00 AM to 6:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:00 AM to 6:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 6:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 6:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 6:30 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "CL",
+         "name": "Starbucks Reserve-Clover Brewed"
+     }, {
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "CX",
+         "name": "Curbside"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "SQ",
+         "name": "tbd"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "freeport-sutterville-4424-freeport-blvd-sacramento-ca-958222049-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "49303-263930",
+     "id": "1023531",
+     "name": "Folsom & 53rd",
+     "phoneNumber": "9162169752",
+     "coordinates": {
+         "latitude": 38.559308,
+         "longitude": -121.441146
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "5300 Folsom Blvd",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958194539"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 9:00 PM",
+     "addressLines": ["5300 Folsom Blvd", "Sacramento, CA 95819"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "4:30 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "4:30 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "4:30 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "4:30 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "4:30 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "folsom-53rd-5300-folsom-blvd-sacramento-ca-958194539-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "6724-74980",
+     "id": "12831",
+     "name": "Harbor Pointe & Stillwater",
+     "phoneNumber": "916-371-3524",
+     "coordinates": {
+         "latitude": 38.591215,
+         "longitude": -121.554531
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "715 Harbor Point Place",
+         "streetAddressLine2": "100",
+         "streetAddressLine3": "Riverpointe Plaza",
+         "city": "West Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "956051629"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 11:00 PM",
+     "addressLines": ["715 Harbor Point Place", "100", "West Sacramento, CA 95605"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "4:30 AM to 11:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "4:30 AM to 11:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "4:30 AM to 11:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "4:30 AM to 11:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "4:30 AM to 11:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "4:30 AM to 11:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "4:30 AM to 11:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "harbor-pointe-stillwater-715-harbor-point-place-riverpointe-plaza-west-sacr"
+ }, {
+     "recommendation": {},
+     "storeNumber": "3423-93926",
+     "id": "14481",
+     "name": "H St & 56th Sacramento",
+     "phoneNumber": "916-451-4861",
+     "coordinates": {
+         "latitude": 38.56763,
+         "longitude": -121.434277
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "5539 H Street",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958193345"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 5:00 PM",
+     "addressLines": ["5539 H Street", "Sacramento, CA 95819"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:30 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:30 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "h-st-56th-sacramento-5539-h-street-sacramento-ca-958193345-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "48689-264464",
+     "id": "1023880",
+     "name": "Exposition & Challenge",
+     "phoneNumber": "9169245950",
+     "coordinates": {
+         "latitude": 38.595467,
+         "longitude": -121.427774
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1600 Challenge Way",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "95815"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 8:00 PM",
+     "addressLines": ["1600 Challenge Way", "Sacramento, CA 95815"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "exposition-challenge-1600-challenge-way-sacramento-ca-95815-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "5542-1442",
+     "id": "15944",
+     "name": "I-80 & Truxel - Sacramento",
+     "phoneNumber": "(916) 928-6113",
+     "coordinates": {
+         "latitude": 38.636521,
+         "longitude": -121.504781
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "3511 Truxel Road",
+         "streetAddressLine2": "#403",
+         "streetAddressLine3": "Natomas Marketplace",
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958343600"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 10:00 PM",
+     "addressLines": ["3511 Truxel Road", "#403", "Sacramento, CA 95834"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "4:30 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "4:30 AM to 11:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "4:30 AM to 11:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:00 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "4:30 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "4:30 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "4:30 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "i-80-truxel-sacramento-3511-truxel-road-natomas-marketplace-sacramento-ca"
+ }, {
+     "recommendation": {},
+     "storeNumber": "20637-196185",
+     "id": "1006982",
+     "name": "Riverfront Center",
+     "phoneNumber": "9162784456",
+     "coordinates": {
+         "latitude": 38.563168,
+         "longitude": -121.42373
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "6000 J Street",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "95819"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Open until 8:00 PM",
+     "addressLines": ["6000 J Street", "Sacramento, CA 95819"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "7:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "7:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "Closed",
+         "open": false,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "Closed",
+         "open": false,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "7:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "7:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "7:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }],
+     "slug": "riverfront-center-6000-j-street-sacramento-ca-95819-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "76548-96837",
+     "id": "7050",
+     "name": "Target Sacramento T-2115",
+     "phoneNumber": "916-864-6733",
+     "coordinates": {
+         "latitude": 38.640904,
+         "longitude": -121.498792
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "3601 N Freeway Blvd",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958342902"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Open until 9:00 PM",
+     "addressLines": ["3601 N Freeway Blvd", "Sacramento, CA 95834"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "BA",
+         "name": "Bakery"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }],
+     "slug": "target-sacramento-t-2115-3601-n-freeway-blvd-sacramento-ca-958342902-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "6882-86060",
+     "id": "12820",
+     "name": "Truxel & Natomas - Sacramento",
+     "phoneNumber": "916-515-0837",
+     "coordinates": {
+         "latitude": 38.640747,
+         "longitude": -121.509646
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "2121 Natomas Crossing Drive",
+         "streetAddressLine2": "800",
+         "streetAddressLine3": "North Natomas Place",
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958343847"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 8:00 PM",
+     "addressLines": ["2121 Natomas Crossing Drive", "800", "Sacramento, CA 95834"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:30 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "truxel-natomas-sacramento-2121-natomas-crossing-drive-north-natomas-place-sa"
+ }, {
+     "recommendation": {},
+     "storeNumber": "57040-265647",
+     "id": "1024255",
+     "name": "Sac State University Union",
+     "phoneNumber": "9162782785",
+     "coordinates": {
+         "latitude": 38.560139,
+         "longitude": -121.422213
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "6000 J STREET",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "95819"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Open until 8:00 PM",
+     "addressLines": ["6000 J STREET", "Sacramento, CA 95819"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "6:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "6:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "8:00 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "10:00 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "6:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "6:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "6:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "CS",
+         "name": "tbd - Coffee Scale"
+     }],
+     "slug": "sac-state-university-union-6000-j-street-sacramento-ca-95819-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "48752-258593",
+     "id": "1014997",
+     "name": "Sac State Mobile Truck",
+     "phoneNumber": "9162784456",
+     "coordinates": {
+         "latitude": 38.557882,
+         "longitude": -121.422095
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "6000 J STREET",
+         "streetAddressLine2": "Lot 3",
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "95819"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Open until 4:00 PM",
+     "addressLines": ["6000 J STREET", "Lot 3", "Sacramento, CA 95819"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "7:30 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "7:30 AM to 2:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "Closed",
+         "open": false,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "Closed",
+         "open": false,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "7:30 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "7:30 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "7:30 AM to 4:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }],
+     "slug": "sac-state-mobile-truck-6000-j-street-sacramento-ca-95819-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "28813-249644",
+     "id": "1018524",
+     "name": "Fair Oaks & Howe",
+     "phoneNumber": "9162921248",
+     "coordinates": {
+         "latitude": 38.574489,
+         "longitude": -121.416408
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "2095 Fair Oaks Blvd",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958258234"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 10:00 PM",
+     "addressLines": ["2095 Fair Oaks Blvd", "Sacramento, CA 95825"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "fair-oaks-howe-2095-fair-oaks-blvd-sacramento-ca-958258234-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "27540-237386",
+     "id": "1013287",
+     "name": "Target Sacramento East T-2492",
+     "phoneNumber": "916-503-3678",
+     "coordinates": {
+         "latitude": 38.549501,
+         "longitude": -121.426329
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "6507 4th Ave",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "95817"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Open until 9:00 PM",
+     "addressLines": ["6507 4th Ave", "Sacramento, CA 95817"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }],
+     "slug": "target-sacramento-east-t-2492-6507-4th-ave-sacramento-ca-95817-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "10944-103280",
+     "id": "8653",
+     "name": "65th & Broadway",
+     "phoneNumber": "916-452-5023",
+     "coordinates": {
+         "latitude": 38.547105,
+         "longitude": -121.428166
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "2992 65th Street",
+         "streetAddressLine2": "100",
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958172673"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 6:00 PM",
+     "addressLines": ["2992 65th Street", "100", "Sacramento, CA 95817"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "65th-broadway-2992-65th-street-sacramento-ca-958172673-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "645-362",
+     "id": "12112",
+     "name": "Howe & Arden",
+     "phoneNumber": "(916) 568-0297",
+     "coordinates": {
+         "latitude": 38.595793,
+         "longitude": -121.416173
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "2100 Arden Way",
+         "streetAddressLine2": "#190",
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958252216"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 9:00 PM",
+     "addressLines": ["2100 Arden Way", "#190", "Sacramento, CA 95825"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "howe-arden-2100-arden-way-sacramento-ca-958252216-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "6626-71321",
+     "id": "9343",
+     "name": "The UV",
+     "phoneNumber": "916-649-3225",
+     "coordinates": {
+         "latitude": 38.573352,
+         "longitude": -121.413808
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "458 Howe Avenue",
+         "streetAddressLine2": "8",
+         "streetAddressLine3": "University Village",
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958255507"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 5:30 PM",
+     "addressLines": ["458 Howe Avenue", "8", "Sacramento, CA 95825"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:30 AM to 5:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:30 AM to 5:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:30 AM to 5:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:30 AM to 5:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:30 AM to 5:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:30 AM to 5:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:30 AM to 5:30 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "the-uv-458-howe-avenue-university-village-sacramento-ca-9"
+ }, {
+     "recommendation": {},
+     "storeNumber": "10349-98256",
+     "id": "10032",
+     "name": "Lake & Enterprise",
+     "phoneNumber": "916-371-5616",
+     "coordinates": {
+         "latitude": 38.572604,
+         "longitude": -121.579782
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "4055 Lake Rd",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "West Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "956913415"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 8:30 PM",
+     "addressLines": ["4055 Lake Rd", "West Sacramento, CA 95691"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "4:30 AM to 8:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "4:30 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:00 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "4:30 AM to 8:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "4:30 AM to 8:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "4:30 AM to 8:30 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "lake-enterprise-4055-lake-rd-west-sacramento-ca-956913415-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "8801-93942",
+     "id": "7885",
+     "name": "Duckhorn & Arena - Sacramento",
+     "phoneNumber": "916-419-3954",
+     "coordinates": {
+         "latitude": 38.642024,
+         "longitude": -121.532562
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "3230 Arena Blvd.",
+         "streetAddressLine2": "210",
+         "streetAddressLine3": "Market West",
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958341099"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 8:00 PM",
+     "addressLines": ["3230 Arena Blvd.", "210", "Sacramento, CA 95834"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "6:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "duckhorn-arena-sacramento-3230-arena-blvd-market-west-sacramento-ca-95834109"
+ }, {
+     "recommendation": {},
+     "storeNumber": "9594-94011",
+     "id": "14645",
+     "name": "Norwood & I-80 - Sacramento",
+     "phoneNumber": "916-924-8978",
+     "coordinates": {
+         "latitude": 38.642907,
+         "longitude": -121.456358
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "4110 Norwood Avenue",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958384932"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 9:00 PM",
+     "addressLines": ["4110 Norwood Avenue", "Sacramento, CA 95838"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "norwood-i-80-sacramento-4110-norwood-avenue-sacramento-ca-958384932-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "29626-254204",
+     "id": "1015416",
+     "name": "Target Sacramento T-0312",
+     "phoneNumber": "916-698-1962",
+     "coordinates": {
+         "latitude": 38.600807,
+         "longitude": -121.402391
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1919 FULTON AVENUE",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "95825"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Open until 9:00 PM",
+     "addressLines": ["1919 FULTON AVENUE", "Sacramento, CA 95825"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "8:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }],
+     "slug": "target-sacramento-t-0312-1919-fulton-avenue-sacramento-ca-95825-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "54178-272166",
+     "id": "1023887",
+     "name": "Howe & Folsom",
+     "phoneNumber": "9163870402",
+     "coordinates": {
+         "latitude": 38.549441,
+         "longitude": -121.407776
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "390 Bicentennial Circle",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "95826"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 9:00 PM",
+     "addressLines": ["390 Bicentennial Circle", "Sacramento, CA 95826"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:00 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "CS",
+         "name": "tbd - Coffee Scale"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "SQ",
+         "name": "tbd"
+     }],
+     "slug": "howe-folsom-390-bicentennial-circle-sacramento-ca-95826-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "11238-102723",
+     "id": "6971",
+     "name": "Fulton & Cottage",
+     "phoneNumber": "916 483-7029",
+     "coordinates": {
+         "latitude": 38.604067,
+         "longitude": -121.401754
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "2119 Fulton Avenue",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958250342"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 7:00 PM",
+     "addressLines": ["2119 Fulton Avenue", "Sacramento, CA 95825"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:30 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "6:00 AM to 5:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "fulton-cottage-2119-fulton-avenue-sacramento-ca-958250342-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "13558-107229",
+     "id": "7470",
+     "name": "Power Inn & Ramona",
+     "phoneNumber": "916-453-0741",
+     "coordinates": {
+         "latitude": 38.541753,
+         "longitude": -121.408406
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "3615 Power Inn Road",
+         "streetAddressLine2": "200",
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958263840"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 7:30 PM",
+     "addressLines": ["3615 Power Inn Road", "200", "Sacramento, CA 95826"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "4:30 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "4:30 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:00 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:00 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "4:30 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "4:30 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "4:30 AM to 7:30 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "power-inn-ramona-3615-power-inn-road-sacramento-ca-958263840-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "74478-96608",
+     "id": "16296",
+     "name": "Safeway-North Natomas #2697",
+     "phoneNumber": "916-285-8840",
+     "coordinates": {
+         "latitude": 38.657388,
+         "longitude": -121.524709
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "2851 Del Paso Rd",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958352304"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Open until 7:00 PM",
+     "addressLines": ["2851 Del Paso Rd", "Sacramento, CA 95835"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "6:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "BA",
+         "name": "Bakery"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }],
+     "slug": "safeway-north-natomas-2697-2851-del-paso-rd-sacramento-ca-958352304-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "9897-93936",
+     "id": "17779",
+     "name": "Arden & Morse",
+     "phoneNumber": "916-486-1204",
+     "coordinates": {
+         "latitude": 38.596166,
+         "longitude": -121.392501
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "3045 Arden Way",
+         "streetAddressLine2": "100",
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958252066"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 7:00 PM",
+     "addressLines": ["3045 Arden Way", "100", "Sacramento, CA 95825"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:30 AM to 6:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "arden-morse-3045-arden-way-sacramento-ca-958252066-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "568-510",
+     "id": "15258",
+     "name": "Town & Country Village Sac",
+     "phoneNumber": "(916) 485-6922",
+     "coordinates": {
+         "latitude": 38.618526,
+         "longitude": -121.400901
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1 Adobe Court",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958214901"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 7:00 PM",
+     "addressLines": ["1 Adobe Court", "Sacramento, CA 95821"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:30 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "town-country-village-sac-1-adobe-court-sacramento-ca-958214901-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "5895-31839",
+     "id": "16223",
+     "name": "Folsom & Julliard - Sacramento",
+     "phoneNumber": "916-381-3498",
+     "coordinates": {
+         "latitude": 38.547546,
+         "longitude": -121.394564
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "8393 Folsom Blvd.",
+         "streetAddressLine2": null,
+         "streetAddressLine3": "College Green Shopping Center",
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958263546"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 9:00 PM",
+     "addressLines": ["8393 Folsom Blvd.", "Sacramento, CA 95826"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "4:30 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "4:30 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "4:30 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "4:30 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "4:30 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "4:30 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "4:30 AM to 9:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "CX",
+         "name": "Curbside"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }],
+     "slug": "folsom-julliard-sacramento-8393-folsom-blvd-college-green-shopping-center-sac"
+ }, {
+     "recommendation": {},
+     "storeNumber": "74911-101861",
+     "id": "8139",
+     "name": "Safeway - Sacramento #1530",
+     "phoneNumber": "916-483-9389",
+     "coordinates": {
+         "latitude": 38.594309,
+         "longitude": -121.386645
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "3320 Arden Way",
+         "streetAddressLine2": null,
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958252017"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "LS",
+     "open": true,
+     "openStatusText": "Open until 7:00 PM",
+     "addressLines": ["3320 Arden Way", "Sacramento, CA 95825"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "BA",
+         "name": "Bakery"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }],
+     "slug": "safeway-sacramento-1530-3320-arden-way-sacramento-ca-958252017-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "54124-286208",
+     "id": "1022322",
+     "name": "Florin & Freeport",
+     "phoneNumber": "9162121708",
+     "coordinates": {
+         "latitude": 38.495997,
+         "longitude": -121.507722
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "1339 FLORIN ROAD",
+         "streetAddressLine2": "102",
+         "streetAddressLine3": null,
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958313618"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 10:00 PM",
+     "addressLines": ["1339 FLORIN ROAD", "102", "Sacramento, CA 95831"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "5:00 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "5:00 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:00 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:00 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "5:00 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "5:00 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "5:00 AM to 10:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "DT",
+         "name": "Drive-Thru"
+     }, {
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "WF",
+         "name": "Wireless Hotspot"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "CX",
+         "name": "Curbside"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "SQ",
+         "name": "tbd"
+     }, {
+         "code": "RW",
+         "name": "My Starbucks Rewards"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "CS",
+         "name": "tbd - Coffee Scale"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "florin-freeport-1339-florin-road-sacramento-ca-958313618-us"
+ }, {
+     "recommendation": {},
+     "storeNumber": "10143-74983",
+     "id": "9482",
+     "name": "Watt & Fair Oaks - Sacramento",
+     "phoneNumber": "916-484-1579",
+     "coordinates": {
+         "latitude": 38.575326,
+         "longitude": -121.382594
+     },
+     "regulations": [],
+     "address": {
+         "streetAddressLine1": "610 Watt Ave",
+         "streetAddressLine2": null,
+         "streetAddressLine3": "Arden Town Center",
+         "city": "Sacramento",
+         "countrySubdivisionCode": "CA",
+         "countryCode": "US",
+         "postalCode": "958645054"
+     },
+     "timeZoneInfo": {
+         "currentTimeOffset": -420,
+         "windowsTimeZoneId": "Pacific Standard Time",
+         "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+     },
+     "brandName": "Starbucks",
+     "ownershipTypeCode": "CO",
+     "open": true,
+     "openStatusText": "Open until 8:00 PM",
+     "addressLines": ["610 Watt Ave", "Sacramento, CA 95864"],
+     "mop": {
+         "ready": false,
+         "wait": null
+     },
+     "schedule": [{
+         "dayName": "Today",
+         "hours": "4:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tomorrow",
+         "hours": "4:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Saturday",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Sunday",
+         "hours": "5:00 AM to 7:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Monday",
+         "hours": "4:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Tuesday",
+         "hours": "4:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }, {
+         "dayName": "Wednesday",
+         "hours": "4:30 AM to 8:00 PM",
+         "open": true,
+         "holiday": ""
+     }],
+     "features": [{
+         "code": "WA",
+         "name": "Oven-warmed Food"
+     }, {
+         "code": "VS",
+         "name": "Verismo"
+     }, {
+         "code": "CD",
+         "name": "Mobile Payment"
+     }, {
+         "code": "DR",
+         "name": "Digital Rewards"
+     }, {
+         "code": "LB",
+         "name": "LaBoulange"
+     }, {
+         "code": "GO",
+         "name": "Starbucks Wi-Fi"
+     }, {
+         "code": "XO",
+         "name": "Mobile Order and Pay"
+     }, {
+         "code": "MX",
+         "name": "Music Experience"
+     }, {
+         "code": "NB",
+         "name": "Nitro Cold Brew"
+     }, {
+         "code": "BE",
+         "name": "Blonde Espresso"
+     }, {
+         "code": "SE",
+         "name": "Non-SVC MOP"
+     }, {
+         "code": "16",
+         "name": "In store"
+     }, {
+         "code": "LU",
+         "name": "Lunch"
+     }, {
+         "code": "PS",
+         "name": "Playbook Store System"
+     }, {
+         "code": "UC",
+         "name": "tbd - UCP"
+     }, {
+         "code": "UE",
+         "name": "tbd - Uber Eats"
+     }],
+     "slug": "watt-fair-oaks-sacramento-610-watt-ave-arden-town-center-sacramento-ca-95864"
+ }]
