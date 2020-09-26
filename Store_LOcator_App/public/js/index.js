@@ -1,6 +1,7 @@
 let map;
 let infoWindow;
 let markers = [];
+let clickedStore = 0;
 
 function initMap() {
     let losAngeles = {
@@ -83,11 +84,16 @@ const createMarker = (latlng, name, address, phoneNumber, openStatus, storeNumbe
     let marker = new google.maps.Marker({
         position: latlng,
         map: map,
-        label: `${storeNumber+1}`
+        label: `${storeNumber + 1}`
     });
     google.maps.event.addListener(marker, 'click', function () {
         infoWindow.setContent(html);
         infoWindow.open(map, marker);
+        document.getElementById(`${clickedStore}`).classList.remove("marker-click");
+        document.getElementById(`${storeNumber}`).classList.add("marker-click");
+        document.getElementById(`${storeNumber}`).focus({ preventScroll: false });
+
+        clickedStore = storeNumber;
     });
     markers.push(marker);
 }
@@ -151,7 +157,7 @@ const fillStoresContainer = (stores) => {
 
         // storeContainer.setAttribute("class", "stores-list")
         storeHtml += `
-            <div class="store-container">
+            <div class="store-container" id=${index} tabindex="0">
                 <div class="store-container-background">
                     <div class="store-info-container">
                         <div class="store-address">
@@ -161,7 +167,7 @@ const fillStoresContainer = (stores) => {
                         <div class="store-phone-number">${phoneNumber}</div> 
                     </div>
                     <div class="store-number-container"> 
-                        <div class="store-number">${index+1}</div>
+                        <div class="store-number">${index + 1}</div>
                     </div>
                 </div>
             </div>     `

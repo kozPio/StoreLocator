@@ -1,0 +1,378 @@
+
+@import './resets';
+@import './variables';
+
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: gray;
+    border-radius: 10px;
+  }
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    display:  flex;
+    flex-direction: column;
+}
+
+
+#map {
+    height: 100vh;
+
+    
+}
+
+
+@include responsive($mobile){
+    #map {
+        height: 50vh;
+        
+    }
+    
+}
+
+.mobile-top{
+    display: flex;
+    background-color: #f6f6f6;
+}
+
+.title {
+    position: absolute;
+    z-index: 1;
+    top: 10vh;
+    left: 10vw;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    text-transform: uppercase;
+    color: #333333;
+
+
+    @include responsive($mobile){
+        position: relative;
+        top: 0;
+        left: 10px;
+        font-size: 18px;
+        margin-top: 10px;
+        width: 100px;
+        
+        
+    }
+}
+
+.inputContainer {
+    display: flex;
+    position: absolute;
+    top: 18vh;
+    left: 10vw;
+    width: 360px;
+    height: 50px;
+    background-color: #333333;
+    z-index: 1;
+    border-radius: 999px;
+    color: $primary-color;
+
+   
+    
+
+  
+
+    @include responsive($mobile){
+        position: relative;
+        top: 0;
+        left: 10px;
+        font-size: 16px;
+        margin-top: 5px;
+        height: 30px;
+        background-color: #f6f6f6;
+        border: 1px solid lightgray;
+        margin-bottom: 5px;
+        width:  218px;
+        
+        
+    }
+
+    .input-fild {
+        display: flex;
+        flex: 1;
+        height: 100%;
+        border-radius: 999px;
+        padding-left: 20px;
+        padding-right: 20px;
+        align-items: center;
+        
+        @include responsive($mobile){
+            padding-left: 5px;
+            
+        }
+    
+        input {
+            flex: 1;
+            outline: none;
+            color: $primary-color;
+            font-size: 20px;
+            background-color: transparent;
+            border: none;
+
+            
+            @include responsive($mobile){
+                font-size: 14px;
+                color: black;
+            }
+        }
+    
+        i {
+            color: $primary-color;
+            font-size: size(xlarge);
+            @include responsive($mobile){
+                font-size: size(big);
+                color: black;
+            }
+        }
+    }
+}
+
+
+
+.stores-list-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: absolute;
+    z-index: 1;
+    top: 24.5vh;
+    left: 10vw;
+    width: 400px;
+    background-color: $primary-color;
+    border-radius: 30px;
+    bottom: 15px;
+    padding-bottom: 25px;
+
+
+    @include responsive($mobile){
+        position: relative;
+        top: 0;
+        left: 0;
+        margin-top: 5px;
+        width: 100%;
+        height: 43vh;
+        
+    }
+}
+
+.store-info-window {
+    min-width: 300px;
+    font-size: size(large);
+    padding: 8px;
+
+    @include responsive ($mobile){
+        min-width: 150px;
+        font-size: size(medium);
+        padding: 5px;
+    }
+
+
+}
+
+.store-info-window .store-info-openStatus {
+    margin-top: 6px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 8px;
+    color: rgba(0, 0, 0, .57);
+
+    @include responsive ($mobile){
+        margin-top: 4px;
+        padding-bottom: 5px;
+    }
+    
+}
+
+.store-info-window .store-info-name {
+    font-size: size(xlarge);
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.87);
+
+    @include responsive ($mobile){
+        font-size: size(big);
+    }
+
+}
+
+.store-info-address,
+.store-info-phoneNumber {
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+
+    @include responsive ($mobile){
+        margin-top: 5px;;
+    }
+}
+
+.store-info-address .icon,
+.store-info-phoneNumber .icon {
+    margin-right: 8px;
+    width: 30px;
+    height: 30px;
+    background-color: $secondary-color;
+    color: $primary-color;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    @include responsive ($mobile){
+        margin-right: 6px;
+        width: 20px;
+        height: 20px;
+    }
+
+}
+
+
+.store-info-phoneNumber a,
+.store-info-address {
+    text-decoration: none;
+    color: #514c4c;
+}
+
+
+.stores-list {
+    padding-left: 20px;
+    padding-right: 20px;
+    border-bottom:  $border-bottom;
+    flex: 1;
+    overflow-y: scroll;
+
+    @include responsive ($mobile){
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+}
+
+.store-container {
+    border-bottom: $border-bottom;
+    display: flex;
+    outline-width: 0;
+
+}
+
+
+.store-info-container {
+    flex: 1;
+
+}
+
+.store-number-container {
+    display: flex;
+    align-items: center;
+}
+
+.store-address {
+    font-size: size(xlarge);
+    color: #514C4C;
+    margin-top: 30px;
+
+    @include responsive ($mobile){
+        font-size: size(big);
+        margin-top: 15px;
+    }
+}
+
+.store-address span {
+    display: block;
+}
+
+.store-phone-number {
+    color: #B5ADAd;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    @include responsive ($mobile){
+        font-size: size(medium);
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+}
+
+.store-number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #454E53;
+    margin-right: 10px;
+    color: $primary-color;
+
+    @include responsive ($mobile){
+        font-size: size(medium);
+        width: 20px;
+        height: 20px;
+    }
+}
+
+.store-container-background {
+    flex: 1;
+    display: flex;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-bottom: 12px;
+    margin-top: 12px;
+    border-radius: 18px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+.store-container-background:hover {
+    background-color: #cccccc87;
+}
+
+.intro {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.enter-zip {
+    color: #514c4c;
+    font-size: size(xslarge);
+}
+
+.find-stores {
+    color: $secondary-color;
+    font-size: size(xlarge);
+}
+
+.no-stores-found {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #514C4C;
+    font-size: size(xlarge);
+}
+
+.marker-click{
+    background-color: #cccccc87;
+
+}
+
+
+

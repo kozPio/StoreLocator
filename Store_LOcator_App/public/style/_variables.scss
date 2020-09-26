@@ -1,0 +1,27 @@
+$primary-color: white;
+$secondary-color:#1985A1;
+$border-bottom: 1px solid #979797;
+
+$font-sizes: (
+    "small": 12px,
+    "medium": 14px,
+    "big": 16px,
+    "large": 18px,
+    "xlarge": 20px,
+    "xslarge": 22px,
+    "xxlarge": 24px
+);
+
+$mobile: 760px;
+
+
+@mixin responsive($size) {
+    @media (max-width: $size){
+        @content;
+    }
+    
+}
+
+@function size($size){
+    @return map-get($font-sizes, $size)
+}

@@ -50,15 +50,15 @@ app.post('/api/stores', (req, res) => {
             }
         })
     });
-    // Store.create(dbStores, (err, stores) => {
-    //     if (err) {
-    //         res.status('500').send(err);
-    //     } else {
-    //         res.status('200').send(stores);
-    //     }
-    // })
+    Store.create(dbStores, (err, stores) => {
+        if (err) {
+            res.status('500').send(err);
+        } else {
+            res.status('200').send(stores);
+        }
+    })
 
-    res.status('200').send(stores);
+
 
 
 })
